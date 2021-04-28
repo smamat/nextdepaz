@@ -8,7 +8,7 @@ const article = ({ article }) => {
   return (
     <div>
       <h3>This is article no. {id}</h3>
-      <Link href="/">Go back</Link>
+      <Link href="/">Go back now, ok?</Link>
     </div>
   )
   
